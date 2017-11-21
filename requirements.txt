@@ -3,7 +3,6 @@ darkskylib
 geocoder
 pyping
 discord[voice]
-urllib
 youtube_dl
 forecastiopy
 postgres
